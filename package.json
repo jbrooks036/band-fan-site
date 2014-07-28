@@ -1,0 +1,24 @@
+{
+  "name": "band-fan-site",
+  "version": "0.0.0",
+  "description": "website for a band's fan base",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbrooks036/band-fan-site"
+  },
+  "author": "JoAnn Brooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbrooks036/band-fan-site/issues"
+  },
+  "homepage": "https://github.com/jbrooks036/band-fan-site",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.7.2",
+    "morgan": "^1.2.2"
+  }
+}
